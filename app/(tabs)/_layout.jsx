@@ -1,7 +1,7 @@
 import * as React from "react";
 import { StyleSheet } from "react-native";
 import { Tabs, TabList, TabTrigger, TabSlot } from "expo-router/ui";
-import { CustomTabList } from "../../ui/cusyomtablist";
+import { CustomTabList } from "../../ui/customtablist";
 
 export default function Layout() {
 	return (
